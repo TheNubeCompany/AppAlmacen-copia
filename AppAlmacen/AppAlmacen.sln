@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAlmacen", "AppAlmacen\AppAlmacen.csproj", "{B38D5A56-6556-4617-BEFD-9E79B0EB6FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibClases", "LibClases\LibClases.csproj", "{B2527CA7-0926-499C-8E37-5A28596F3F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFormularios", "LibFormularios\LibFormularios.csproj", "{686E66BD-9032-45F8-A841-18E3769B57ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{4319E270-F9EB-464D-BA90-6A3484D88D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38D5A56-6556-4617-BEFD-9E79B0EB6FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38D5A56-6556-4617-BEFD-9E79B0EB6FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38D5A56-6556-4617-BEFD-9E79B0EB6FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38D5A56-6556-4617-BEFD-9E79B0EB6FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2527CA7-0926-499C-8E37-5A28596F3F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2527CA7-0926-499C-8E37-5A28596F3F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2527CA7-0926-499C-8E37-5A28596F3F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2527CA7-0926-499C-8E37-5A28596F3F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686E66BD-9032-45F8-A841-18E3769B57ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686E66BD-9032-45F8-A841-18E3769B57ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686E66BD-9032-45F8-A841-18E3769B57ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686E66BD-9032-45F8-A841-18E3769B57ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,68 @@
+﻿# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de Resharper
+/_ReSharper.*/
+*.[Rr]e[Ss]harper
+
+# Archivos de TeamCity
+_TeamCity*
+
+# Build Results
+[Bb]uild/
+
+# Archivos de configuración local
+*.DotSettings.user
+
+# Archivos de base de datos
+*.mdf
+*.ldf
+
+# Archivos de paquetes
+# it's better to exclude NuGet Packages
+*.nupkg
+# except build/, which is used as an MSBuild target.
+!build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+**/packages/*
+**/node_modules/*
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración
+appsettings.json
+appsettings.*.json
+
+# Archivos de secretos de usuario
+*.secrets.json
+
+# Archivos de migración de Entity Framework
+Migrations/
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de Visual Studio
+.vs/
+
+# Archivos de JetBrains Rider
+.idea/
+
+# Archivos de Windows Forms
+*.resx
+*.resources
+*.Designer.cs
+
+# Archivos de SQL Server
+*.sql
+*.bak
+*.trn
